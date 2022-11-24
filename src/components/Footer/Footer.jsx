@@ -2,13 +2,14 @@ import React from 'react'
 import './Footer.scss'
 
 const Footer = () => {
-  return (
-    <span>
-        <br />
-        <div>All rights reserved</div>
-        </span>
-    
-  )
+    return (
+        <footer>
+            <span>
+                <br />
+                <div>World Today - All rights reserved®</div>
+            </span>
+        </footer>
+    )
 }
 
 export default Footer

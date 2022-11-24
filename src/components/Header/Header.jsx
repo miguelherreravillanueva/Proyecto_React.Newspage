@@ -18,7 +18,7 @@ const Header = () => {
             <Link to="/list">ListNews</Link>
           </span>
         </div>
-         <h2>Webpage's title</h2>
+         <h2>World Today</h2>
       </nav>
     );
   };

@@ -7,7 +7,7 @@ const Home = ()=>{
            <br/>
            
            <br/>
-            <p>Welcome to the XXX page.
+            <p>Welcome to <i>World Today</i>, where you will find the latest news around the world.
                 <br/>
                 <br/>
                 For more information go to  <i>ListNews</i>.

@@ -3,7 +3,8 @@ import './ListNews.scss'
 
 const ListNews = () => {
   return (
-    <div>This are the latests news</div>
+    <div>These are the latest world news.
+    </div>
   )
 }
 
