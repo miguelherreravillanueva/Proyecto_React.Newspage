@@ -1,11 +1,29 @@
-import React from 'react'
-import './ListNews.scss'
+// import React, { useEffect } from 'react'
+// import './ListNews.scss'
+// import axios from "axios"
 
-const ListNews = () => {
-  return (
-    <div>These are the latest world news.
-    </div>
-  )
-}
+// const ListNews = () => {
+//     const [news]
+//     const getNews = async () => {
+//         try {
+//             const res = await axios.get("https://api.nytimes.com/svc/topstories/v2/arts.json?api-key=yourkey")
+//             console.log("respons", res)
+//         } catch (error) {
+//             console.error(error)
+//         }
+//     }
 
-export default ListNews
+//     useEffect(() => {
+//         getNews()
+//     }, [])
+
+
+//     return (
+//         <>
+//             <div>These are the latest world news.
+//             </div>
+//         </>
+//     )
+// }
+
+// export default ListNews

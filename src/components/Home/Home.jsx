@@ -4,8 +4,7 @@ import './Home.scss'
 const Home = ()=>{
     return(
         <>
-           <br/>
-           
+                    
            <br/>
             <p>Welcome to <i>World Today</i>, where you will find the latest news around the world.
                 <br/>

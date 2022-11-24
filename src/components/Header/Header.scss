@@ -1,0 +1,16 @@
+header{
+    a{
+        all: unset;
+        justify-content: space-around;
+        display: flex;
+        cursor: pointer;
+    }
+
+    nav{
+        background-color: rgb(157, 255, 157);
+        color: rgb(26, 195, 37);
+        display: flex;
+        justify-content: space-around;
+        padding: 5px;
+    }
+}
