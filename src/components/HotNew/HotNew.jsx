@@ -1,4 +1,5 @@
-import React from 'react'
+import React, { useContext } from 'react'
+import { GlobalContext } from '../../context/GlobalState'
 
 const HotNew = (props) => {
   const {hotNews} = useContext(GlobalContext)
