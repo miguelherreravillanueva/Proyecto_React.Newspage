@@ -6,7 +6,6 @@ const Footer = () => {
         <>
         <footer>
             <span>
-                <br />
                 <div>World Today - All rights reserved®</div>
             </span>
         </footer>

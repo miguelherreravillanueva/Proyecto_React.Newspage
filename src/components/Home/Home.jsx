@@ -3,7 +3,7 @@ import './Home.scss'
 
 const Home = ()=>{
     return(
-        <>
+        <div>
                     
            <br/>
             <p>Welcome to <i>World Today</i>, where you will find the latest news around the world.
@@ -12,7 +12,7 @@ const Home = ()=>{
                 To read the latest news go to <i>ListNews</i>.
             </p>
             
-        </>
+        </div>
        )
 }
 
