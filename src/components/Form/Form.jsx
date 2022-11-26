@@ -53,7 +53,7 @@ const Form = () => {
     };
 
     return (
-        <div>
+        <>
             <span>Fill the gaps to create a new</span>
             <br />
             <form onSubmit={handleSubmit}>
@@ -87,7 +87,7 @@ const Form = () => {
             <p>{visible ? message : <p>You have created a new. Redirecting to <i>ListNews</i>
             </p>}
             </p>
-        </div>
+        </>
     );
 };
 

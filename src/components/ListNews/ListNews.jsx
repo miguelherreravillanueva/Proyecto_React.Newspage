@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useContext } from 'react'
+import React, { useEffect, useContext } from 'react'
 import './ListNews.scss'
 import HotNew from '../HotNew/HotNew'
 import { GlobalContext } from '../../context/GlobalState'
