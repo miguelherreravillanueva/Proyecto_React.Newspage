@@ -14,11 +14,11 @@ const Form = () => {
     })
 
     const initialState = {
-        title:"",
+        title: "",
         body: "",
         date: "",
     };
-        
+
 
     const clearState = () => {
         setData({ ...initialState })
@@ -53,8 +53,8 @@ const Form = () => {
     };
 
     return (
-        <>
-            <div>Fill the gaps to create a new</div>
+        <div>
+            <span>Fill the gaps to create a new</span>
             <br />
             <form onSubmit={handleSubmit}>
                 <input type="text"
@@ -63,7 +63,7 @@ const Form = () => {
                     onChange={handleInputChange}
                     name="title"
                 />
-                 <br />
+                <br />
                 <input
                     type="text"
                     placeholder="News body"
@@ -84,9 +84,10 @@ const Form = () => {
                     Create new
                 </button>
             </form>
-            <p>{visible ? message : <p>You have created a new. Redirecting to <i>ListNews</i> 
-            </p> }</p>
-        </>
+            <p>{visible ? message : <p>You have created a new. Redirecting to <i>ListNews</i>
+            </p>}
+            </p>
+        </div>
     );
 };
 

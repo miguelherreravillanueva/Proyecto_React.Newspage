@@ -1,16 +1,20 @@
-header{
-    a{
-        all: unset;
-        justify-content: space-around;
+header {
+    background-color: rgb(157, 255, 157);
+    color: rgb(26, 195, 37);
+    padding: 5px;
+    nav {
         display: flex;
-        cursor: pointer;
-    }
+        justify-content: space-around;
 
-    nav{
-        background-color: rgb(157, 255, 157);
-        color: rgb(26, 195, 37);
-        display: flex;
-        justify-content: space-around;
-        padding: 5px;
+        a {
+            all: unset;
+        }
+
+        div {
+            display: flex;
+            gap: 10px;
+            cursor: pointer;
+        }
+
     }
 }

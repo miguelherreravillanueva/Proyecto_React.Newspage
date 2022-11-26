@@ -5,18 +5,12 @@ import './Header.scss'
 const Header = () => {
     return (
         <header>
+            <h1>World Today</h1>
             <nav >
-                <h2>World Today</h2>
                 <div>
-                    <span>
-                        <Link to="/home">Home</Link>
-                    </span>
-                    <span>
-                        <Link to="/form">Form</Link>
-                    </span>
-                    <span>
-                        <Link to="/list">ListNews</Link>
-                    </span>
+                    <Link to="/home">Home</Link>
+                    <Link to="/form">Form</Link>
+                    <Link to="/list">ListNews</Link>
                 </div>
             </nav>
         </header>
