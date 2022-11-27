@@ -1,4 +1,4 @@
-# 3rd Frontend Project - News Page
+# 1st React Project - News Page
 
  <h3 align="center">MERN STACK FRONTEND PROJECT</h3>
 
