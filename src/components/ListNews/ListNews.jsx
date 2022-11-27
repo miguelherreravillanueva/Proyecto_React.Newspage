@@ -13,9 +13,12 @@ const ListNews = () => {
     return (
         <>
             <div>
-                <h3>Read the latest world news</h3>
+            <br />
+                <p>These are the <strong>latest</strong>  world news</p>
+                <br />
                 <HotNew />
             </div>
+            
         </>
     )
 }
