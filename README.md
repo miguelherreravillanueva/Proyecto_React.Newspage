@@ -82,7 +82,6 @@ The LinkNews view use a Context request.
 
 ### Built With
 
-* [![Express][Express.js]][Express.js-url]
 * [![Node][Node.JS]][Node.JS-url]
 * [![Mongo][MongoDB]][MongoDB-url]
 * [![SASS][SASS]][SASS-url]

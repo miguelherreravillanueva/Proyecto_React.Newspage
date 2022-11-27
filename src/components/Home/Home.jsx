@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.scss';
-// import logo from "../image/"
+// import logo from "../image"
 const Home = ()=>{
     return(
         <div>
@@ -10,8 +10,8 @@ const Home = ()=>{
                 <br/>
                 <br/>
                 To read the latest news go to <i>ListNews</i>.
-                {/* <img src={logo} alt="" />
- */}
+                {/* <img src={logo} alt="" /> */}
+
             </p>
             
         </div>
