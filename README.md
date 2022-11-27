@@ -183,12 +183,12 @@ This space is made to list my favourites SOCIAL NETWORK projects that I have exp
 
 - Form general overview
 
-![foto](/app_news_page//src//components/image/form.png)
+![foto](./src/components/image/form.png)
 
 
 - ListNew general overview
 
-![foto](../app_news_page/src/components/image/linknews.png)
+![foto](./src/components/image/linknews.png)
 
 
 
