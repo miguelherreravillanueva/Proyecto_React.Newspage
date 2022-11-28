@@ -1,6 +1,6 @@
 const hotNews = (state, action) => {
     switch (action.type) {
-        case "Get_News":
+        case "GET_NEWS":
             return {
                 ...state,
                 hotNews: action.payload,

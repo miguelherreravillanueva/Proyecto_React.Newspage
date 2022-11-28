@@ -58,6 +58,7 @@ const Form = () => {
             <br />
             <span>Fill the gaps to create a new</span>
             <br />
+            <br />
             <form onSubmit={handleSubmit}>
                 <input type="text"
                     placeholder="News title"
@@ -65,6 +66,7 @@ const Form = () => {
                     onChange={handleInputChange}
                     name="title"
                 />
+                <br />
                 <br />
                 <input
                     type="text"
@@ -74,6 +76,7 @@ const Form = () => {
                     name="body"
                 />
                 <br />
+                <br />
                 <input
                     type="date"
                     placeholder="News date"
@@ -81,6 +84,7 @@ const Form = () => {
                     onChange={handleInputChange}
                     name="date"
                 />
+                <br />
                 <br />
                 <button type='submit' disabled={btnDisable}>
                     Create new
