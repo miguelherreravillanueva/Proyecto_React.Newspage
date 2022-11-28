@@ -233,7 +233,7 @@ Developed by [Miguel Herrera](https://github.com/miguelherreravillanueva)
 [Node.JS-url]: https://nodejs.org/en/
 [SASS]: https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=SASS&logoColor=white
 [SASS-url]: https://sass-lang.com/
-[React]: https://img.shields.io/badge/React-9cf?style=for-the-badge&logo=React&queryColor=fedcba&logoColor=white
+[React]: https://img.shields.io/badge/React-219ebc?style=for-the-badge&logo=React&typoColor=fedcba&logoColor=white
 [React-url]: https://es.reactjs.org/
 
 
