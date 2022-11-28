@@ -131,7 +131,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- FUTURE -->
 ## Future Roadmap
 
-- [ ] Add Swagger Documentation
+- [ ] Add more links
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
