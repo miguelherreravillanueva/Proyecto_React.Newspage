@@ -60,11 +60,12 @@ const Form = () => {
             <br />
             <br />
             <form onSubmit={handleSubmit}>
-                <input type="text"
-                    placeholder="News title"
+                <input type="text" 
+                    placeholder="News title" 
                     value={data.title}
                     onChange={handleInputChange}
-                    name="title"
+                    name="title" 
+                    
                 />
                 <br />
                 <br />
