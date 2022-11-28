@@ -12,7 +12,7 @@ const ListNews = () => {
 
     return (
         <>
-            <div>
+            <div className='list'>
             <br />
                 <p>These are the <strong>latest</strong>  world news</p>
                 <br />

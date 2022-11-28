@@ -25,7 +25,9 @@ const Home = () => {
                 <br />
                 To read the latest news go to <i>ListNews</i>.
                 <br />
-                <img src={logo} alt="" />
+                <br />
+                <br />
+                <img src={logo} width="150" height="80" alt="img" />
 
             </p>
 

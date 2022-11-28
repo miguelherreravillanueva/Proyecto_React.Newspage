@@ -84,7 +84,7 @@ The LinkNews view use a Context request.
 
 * [![Node][Node.JS]][Node.JS-url]
 * [![Mongo][MongoDB]][MongoDB-url]
-* [![SASS-img][SASS-img]][SASS-url]
+* [![SASS][SASS]][SASS-url]
 
 
 
@@ -230,8 +230,8 @@ Developed by [Miguel Herrera](https://github.com/miguelherreravillanueva)
 [Express.js-url]: https://expressjs.com/
 [Node.JS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [Node.JS-url]: https://nextjs.org/
+[SASS]: https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=SASS&logoColor=white
 [SASS-url]: https://sass-lang.com/
-[SASS-img]: https://img.shields.io/badge/SASS-sass-pink
 
 [Postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [Postman-url]: https://www.postman.com/
