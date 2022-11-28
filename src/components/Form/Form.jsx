@@ -53,7 +53,7 @@ const Form = () => {
     };
 
     return (
-        <div>
+        <div className='form'>
             <br />
             <span>Fill the gaps to create a new</span>
             <br />
