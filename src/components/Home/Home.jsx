@@ -1,21 +1,30 @@
 import React from 'react';
 import './Home.scss';
 // import logo from "../image"
-const Home = ()=>{
-    return(
+const Home = () => {
+    return (
         <div>
-                    
-           <br/>
+
+            <br />
             <p>Welcome to <strong>World Today</strong>, where you will find the latest news around the world.
-                <br/>
-                <br/>
+                <br />
+                <br />
+                Politics
+                <br />
+                Climatechange
+                <br />
+                Art
+                <br />
+                and more...
+                <br />
+                <br />
                 To read the latest news go to <i>ListNews</i>.
                 {/* <img src={logo} alt="" /> */}
 
             </p>
-            
+
         </div>
-       )
+    )
 }
 
 export default Home

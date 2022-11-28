@@ -55,6 +55,7 @@ const Form = () => {
     return (
         <form>
         <div>
+            <br />
             <span>Fill the gaps to create a new</span>
             <br />
             <form onSubmit={handleSubmit}>

@@ -9,7 +9,7 @@ const HotNew = (props) => {
         <div key={hotNew.id}>
             <p><strong>{hotNew.subsection}</strong></p>
             <p><i>{hotNew.title}</i></p>
-            <img src={hotNew.multimedia[1].url} alt="img" />
+            <img src={hotNew.multimedia[1].url} width="550" height="350" alt="img" />
         </div>
         </nav>
     )
