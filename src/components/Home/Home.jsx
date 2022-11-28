@@ -9,18 +9,19 @@ const Home = () => {
             <p>Welcome to <strong>World Today</strong>, where you will find the latest news around the world.
                 <br />
                 <br />
-                Politics
+                ~ Politics
                 <br />
-                Climatechange
+                ~ Climatechange
                 <br />
-                Art
+                ~ Art
                 <br />
-                Gastronomy
+                ~ Gastronomy
                 <br />
-                Culture
+                ~ Culture
                 <br />
                 <br />
-                and more...
+                ~ and more...
+                <br />
                 <br />
                 <br />
                 To read the latest news go to <i>ListNews</i>.

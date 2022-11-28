@@ -53,7 +53,6 @@ const Form = () => {
     };
 
     return (
-        <form>
         <div>
             <br />
             <span>Fill the gaps to create a new</span>
@@ -61,7 +60,7 @@ const Form = () => {
             <br />
             <form onSubmit={handleSubmit}>
                 <input type="text" 
-                    placeholder="News title" 
+                    placeholder="News title"
                     value={data.title}
                     onChange={handleInputChange}
                     name="title" 
@@ -91,11 +90,10 @@ const Form = () => {
                     Create new
                 </button>
             </form>
-            <p>{visible ? message : <p>You have created a new. Redirecting to <i>ListNews</i>
-            </p>}
+            <p>{visible ? message : <>You have created a new. Redirecting to <i>ListNews</i>
+            </>}
             </p>
         </div>
-        </form>
     );
 };
 
