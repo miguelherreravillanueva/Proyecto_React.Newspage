@@ -230,7 +230,7 @@ Developed by [Miguel Herrera](https://github.com/miguelherreravillanueva)
 [Express.js]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [Express.js-url]: https://expressjs.com/
 [Node.JS]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-[Node.JS-url]: https://nextjs.org/
+[Node.JS-url]: https://nodejs.org/en/
 [SASS]: https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=SASS&logoColor=white
 [SASS-url]: https://sass-lang.com/
 [React]: https://img.shields.io/badge/React-9cf?style=for-the-badge&logo=React&queryColor=fedcba&logoColor=white
