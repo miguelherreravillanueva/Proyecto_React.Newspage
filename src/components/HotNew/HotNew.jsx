@@ -1,15 +1,16 @@
 import React, { useContext } from 'react'
 import { GlobalContext } from '../../context/GlobalState'
+import './HotNew.scss'
 
 const HotNew = (props) => {
   const {hotNews} = useContext(GlobalContext)
   const hotNew = hotNews.filter((hotNew) => hotNew.title !== "").map((hotNew) => {
     return (
       <nav>
-        <div key={hotNew.id}>
+        <div key={hotNew.id} className="hotnew" >
             <p><strong>{hotNew.subsection}</strong></p>
             <p><i>{hotNew.title}</i></p>
-            <img src={hotNew.multimedia[1].url} width="550" height="350" alt="img" />
+            <img src={hotNew.multimedia[1].url}   alt="img" />
         </div>
         </nav>
     )
