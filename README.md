@@ -170,12 +170,14 @@ This space is made to list my favourites SOCIAL NETWORK projects that I have exp
 <!-- PREVIEW -->
 ## Preview 
 
-- Form general overview
+- Create new overview
 
 ![foto](./src/components/image/form.png)
 
 
-- ListNew general overview
+***
+
+- News general overview
 
 ![foto](./src/components/image/linknews.png)
 
