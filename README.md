@@ -185,7 +185,7 @@ This space is made to list my favourites SOCIAL NETWORK projects that I have exp
 <!-- LICENSE -->
 ## License
 
-This project is under license of Miguel Herrera
+This project is under license of [Miguel Herrera](https://github.com/miguelherreravillanueva)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,7 +197,3 @@ This project is under license of Miguel Herrera
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-------
-
-Developed by [Miguel Herrera](https://github.com/miguelherreravillanueva)
